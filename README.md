@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Nguyễn Duy Anh Tùng
+* ID: BI12-484
 * Group ID: *Your Group ID here*
 
