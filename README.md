@@ -12,5 +12,5 @@ Student Info
 
 * Name: Nguyễn Duy Anh Tùng
 * ID: BI12-484
-* Group ID: *Your Group ID here*
+* Group ID: 4
 
